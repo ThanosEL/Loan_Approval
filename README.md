@@ -5,7 +5,7 @@ approved based on various feutures.
 
 ## Files
 
-- main.py: The main script that loads data, trains models and evaluete
+- [main.py]: The main script that loads data, trains models and evaluete
   performance.
 
 - processing.py: Contains the function to process and prepare the data for
